@@ -10,6 +10,12 @@
 4. **Certification coverage:** **Data Engineer Associate**. Cross-check current [official certification guide](https://www.databricks.com/learn/training/certification).
 5. **Completion evidence:** course notes, an executable lab or design, one failing/negative test, a commit, and a 3-minute independent explanation.
 
+## Required company lab / exact public section — Official AI/BI for Data Analysts — Data Sets and Dashboards
+
+Open [Data Analysis with Databricks](https://partner-academy.databricks.com/learn/courses/830/data-analysis-with-databricks-sql-ilt) → Section 2 AI/BI for Data Analysts. Lab: source governed tables, create KPI and trend visuals with filters; publish a two-page dashboard and review accuracy.
+
+**Evidence:** course-progress entry (keep corporate records private), tested artifact and short architectural explanation.
+
 ## Assigned official curriculum
 
 **Databricks Partner Academy:** [Partner Academy](https://partner-academy.databricks.com/) — log in using an approved company account and locate **Get Started with Data Engineering; Databricks Fundamentals**. The public [Databricks role-based training catalog](https://www.databricks.com/learn/training/home) lists relevant course titles.
@@ -57,6 +63,12 @@ Combine ingestion, PySpark transformations, Delta layers and quality checks.
 3. **實作 Lab：** Deliver CSV/JSON→Bronze→Silver→Gold with tested SQL outputs。
 4. **對應證書：** **Data Engineer Associate**，正式範圍以[官方考綱](https://www.databricks.com/learn/training/certification)為準。
 5. **完成證據：** 官方課程筆記、程式／架構成果、至少一個失敗或權限測試、Git Commit 和三分鐘技術解說。
+
+## 公司指定 Lab／官方 Section — Official AI/BI for Data Analysts — Data Sets and Dashboards
+
+打開官方 Data Analysis with Databricks → Section 2 AI/BI for Data Analysts；使用受管控資料建立 KPI 與 Trend 視覺化、篩選條件，發佈兩頁 Dashboard 並檢查數字。
+
+**驗收：** 公司課程進度私人記錄、可驗證實作、技術解說。
 
 ## 指定官方課程
 
