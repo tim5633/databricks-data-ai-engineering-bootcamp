@@ -18,6 +18,12 @@
 - **Credential:** **Data Engineer Professional** (advanced preparation; full exam coverage needs further study).
 - **Evidence:** tested solution, architecture decision and gap analysis.
 
+## Required company lab / exact public section — AI/BI for Data Analysts — Genie and Dashboard Integration
+
+Return to the [official AI/BI course](https://partner-academy.databricks.com/learn/courses/830/data-analysis-with-databricks-sql-ilt) Section 2. Lab: extend the week-1 dashboard to include governed datasets, filter scopes and Genie integration if enabled; document business value and access controls.
+
+**Evidence:** course-progress entry (keep corporate records private), tested artifact and short architectural explanation.
+
 ## Assigned official curriculum
 
 **Databricks Partner Academy:** [Partner Academy](https://partner-academy.databricks.com/) — log in using an approved company account and locate **Get Started with Lakehouse Architecture; Data Modeling Strategies; Context Engineering**. The public [Databricks role-based training catalog](https://www.databricks.com/learn/training/home) lists relevant course titles.
@@ -73,6 +79,12 @@ Create ADRs, risk register, RACI, acceptance tests and roadmap.
 - **Lab：** Deliver client-ready solution architecture pack.。
 - **證書：** Data Engineer Professional（進階準備，並非八週覆蓋完整考試）。
 - **驗收：** 測試、架構決策、缺口分析。
+
+## 公司指定 Lab／官方 Section — AI/BI for Data Analysts — Genie and Dashboard Integration
+
+回到官方 AI/BI 課程 Section 2；延伸第一週 Dashboard：受管理 Dataset、不同 Filter Scope、可用時整合 Genie，並記錄商業價值與權限設計。
+
+**驗收：** 公司課程進度私人記錄、可驗證實作、技術解說。
 
 ## 指定官方課程
 
