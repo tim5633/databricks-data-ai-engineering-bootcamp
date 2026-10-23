@@ -18,6 +18,12 @@
 - **Credential:** **Data Engineer Professional; GenAI Engineer Associate** (advanced preparation; full exam coverage needs further study).
 - **Evidence:** tested solution, architecture decision and gap analysis.
 
+## Required company lab / exact public section — AI/BI for Data Analysts — Client Architecture Demonstration
+
+Use [AI/BI Section 2](https://partner-academy.databricks.com/learn/courses/830/data-analysis-with-databricks-sql-ilt) as a presentation track. Lab: present Gold dataset → dashboard → agent answer with matching financial KPIs and audit-friendly citations.
+
+**Evidence:** course-progress entry (keep corporate records private), tested artifact and short architectural explanation.
+
 ## Assigned official curriculum
 
 **Databricks Partner Academy:** [Partner Academy](https://partner-academy.databricks.com/) — log in using an approved company account and locate **Get Started with Lakehouse Architecture; Data Modeling Strategies; Context Engineering**. The public [Databricks role-based training catalog](https://www.databricks.com/learn/training/home) lists relevant course titles.
@@ -73,6 +79,12 @@ Reproduce pipeline→governance→retrieval→agent→eval→deployment.
 - **Lab：** Present demo with one failure/rollback scenario.。
 - **證書：** Data Engineer Professional; GenAI Engineer Associate（進階準備，並非八週覆蓋完整考試）。
 - **驗收：** 測試、架構決策、缺口分析。
+
+## 公司指定 Lab／官方 Section — AI/BI for Data Analysts — Client Architecture Demonstration
+
+使用 AI/BI Section 2 做架構展示；Lab：把 Gold Dataset → Dashboard → Agent Answer 串在同一段可驗證財務 KPI 和來源引用的 Demo。
+
+**驗收：** 公司課程進度私人記錄、可驗證實作、技術解說。
 
 ## 指定官方課程
 
