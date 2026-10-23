@@ -2,6 +2,14 @@
 
 **2026-12-11 · 2 hours · Week 7** · [Home](../README.md) · [繁體中文 ↓](#traditional-chinese)
 
+## Partner Academy course → official study focus → lab → exam
+
+- **Open:** [Generative AI Engineer Associate Exam Guide](https://www.databricks.com/sites/default/files/2026-03/Databricks-Certified-Generative-AI-Engineer-Associate-Exam-Guide-Mar26.pdf) and [Databricks Partner Academy](https://partner-academy.databricks.com/) with Accenture email.
+- **Study:** Design, data prep, development, evaluation exam sections (recommended subsection: follow actual lesson titles after login).
+- **Lab:** Complete original timed practice and targeted review..
+- **Credential:** **Generative AI Engineer Associate**, using the [March 2026 official exam guide](https://www.databricks.com/sites/default/files/2026-03/Databricks-Certified-Generative-AI-Engineer-Associate-Exam-Guide-Mar26.pdf).
+- **Evidence:** serving endpoint / tests / trace or signed-off exam-readiness checklist, plus failure-case notes.
+
 ## Assigned official curriculum
 
 **Databricks Partner Academy:** [Partner Academy](https://partner-academy.databricks.com/) — log in using an approved company account and locate **Generative AI Application Deployment and Monitoring**. The public [Databricks role-based training catalog](https://www.databricks.com/learn/training/home) lists relevant course titles.
@@ -41,6 +49,14 @@ Map practice to latest official exam guide; compare weak domains.
 # Day 47 — GenAI Associate 認證準備
 
 **2026-12-11 · 2 小時 · 第 7 週** · [首頁](../README.md)
+
+## 公司課程 → Section → 實作 → 證照
+
+- **打開：** [Generative AI Engineer Associate Exam Guide](https://www.databricks.com/sites/default/files/2026-03/Databricks-Certified-Generative-AI-Engineer-Associate-Exam-Guide-Mar26.pdf) 及公司 [Partner Academy](https://partner-academy.databricks.com/)。
+- **指定內容：** Design, data prep, development, evaluation exam sections（建議學習 Section，內部 Lesson 標題以登入為準）。
+- **實作：** Complete original timed practice and targeted review.。
+- **證照：** Generative AI Engineer Associate，依照 [2026 年 3 月 Exam Guide](https://www.databricks.com/sites/default/files/2026-03/Databricks-Certified-Generative-AI-Engineer-Associate-Exam-Guide-Mar26.pdf)。
+- **驗收：** 部署／測試／Trace 或應試檢查清單及故障案例。
 
 ## 指定官方課程
 
