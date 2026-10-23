@@ -4,7 +4,14 @@
 
 The first three were mentioned in the Accenture internal post: Data Engineer Associate, Data Engineer Professional, and Generative AI Engineering certification. The other paths are recommendations, **not** confirmed company-voucher entitlements.
 
-### Internal process from provided screenshot
+### Daily course mapping (company-provided resources)
+
+- [Full Accenture training course → assigned day → required lab → credential coverage](accenture-course-coverage.md).
+- [Advanced Data Engineer Professional and Context Engineer four-week extension](professional-and-context-followon.md).
+- **Day 01:** use an Accenture company email for Partner Academy, enroll intended exams in Workday and request the Co-Lab environment with the original internal link.
+- **Day 28 / Day 49:** retain completion certificate and Workday screenshot privately, then request the company certification voucher. Do not commit forms, names or internal URLs.
+
+## Internal process from provided screenshot
 
 1. Register courses/certification in **Workday**.
 2. Use your **Accenture email** to create a Databricks Partner Academy account.
@@ -24,7 +31,14 @@ Internal form URLs are **not** included because they were not present as accessi
 
 Accenture 截圖列出的三張是 Data Engineer Associate、Data Engineer Professional、Generative AI Engineering Certification。額外認證是學習建議，**不能假設公司會提供 Voucher**。
 
-### 公司內部程序（根據截圖）
+### 公司官方課程與每日安排
+
+- [Accenture 全部課程 → 每日 Section → Lab → 認證 對照](accenture-course-coverage.md)。
+- [Data Engineer Professional／Context Engineer 進階延伸四週](professional-and-context-followon.md)。
+- **Day 01：** 公司信箱註冊 Partner Academy、Workday 登記證書，並透過原始公司內部表單申請 Co-Lab。
+- **Day 28／49：** 私下保存完課證明與 Workday 截圖，提交公司考試 Voucher 申請；不要放進公開 GitHub。
+
+## 公司內部程序（根據截圖）
 
 1. 在 **Workday** 登記要考的證照。
 2. 使用 **Accenture 信箱**申請 Databricks Partner Academy。
