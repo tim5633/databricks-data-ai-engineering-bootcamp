@@ -10,6 +10,14 @@
 4. **Credential mapping:** **Data Engineer Professional; AWS Platform Architect Accreditation (optional)**. These advanced credentials are a **follow-on readiness track**, not guaranteed to be fully exam-ready in eight weeks.
 5. **Evidence:** HLD, tested pipeline/agent, security controls or 90-day gap plan.
 
+## Course / section / lab / certification assignment
+
+- **Open:** [Data Modeling Strategies](https://www.databricks.com/learn/training/home) via [Partner Academy](https://partner-academy.databricks.com/) or [official exam guide](https://www.databricks.com/learn/training/certification).
+- **Focus:** Data modeling and client HLD (recommended topic; login-only lesson name not verified).
+- **Lab:** Deliver client-ready solution architecture pack..
+- **Credential:** **Data Engineer Professional** (advanced preparation; full exam coverage needs further study).
+- **Evidence:** tested solution, architecture decision and gap analysis.
+
 ## Assigned official curriculum
 
 **Databricks Partner Academy:** [Partner Academy](https://partner-academy.databricks.com/) — log in using an approved company account and locate **Get Started with Lakehouse Architecture; Data Modeling Strategies; Context Engineering**. The public [Databricks role-based training catalog](https://www.databricks.com/learn/training/home) lists relevant course titles.
@@ -57,6 +65,14 @@ Create ADRs, risk register, RACI, acceptance tests and roadmap.
 3. **實作：** Deliver client-ready solution architecture pack.。
 4. **證照對應：** Data Engineer Professional; AWS Platform Architect Accreditation (optional)；這屬於**進階認證準備路線**，不代表八週內已涵蓋完整應試範圍。
 5. **驗收：** HLD、測試 Pipeline／Agent、安全控制或 90 天補強計畫。
+
+## 指定課程／Section／實作／證照
+
+- **打開：** [Data Modeling Strategies](https://www.databricks.com/learn/training/home) → [Partner Academy](https://partner-academy.databricks.com/) 或[官方考綱](https://www.databricks.com/learn/training/certification)。
+- **Section：** Data modeling and client HLD（建議主題，未假定登入後 Lesson 名稱）。
+- **Lab：** Deliver client-ready solution architecture pack.。
+- **證書：** Data Engineer Professional（進階準備，並非八週覆蓋完整考試）。
+- **驗收：** 測試、架構決策、缺口分析。
 
 ## 指定官方課程
 
