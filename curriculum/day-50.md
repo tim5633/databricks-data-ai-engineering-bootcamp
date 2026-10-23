@@ -2,6 +2,14 @@
 
 **2026-12-14 · 2 hours · Week 8** · [Home](../README.md) · [繁體中文 ↓](#traditional-chinese)
 
+## Course / section / lab / certification assignment
+
+- **Open:** [Get Started with Lakehouse Architecture](https://www.databricks.com/learn/training/home) via [Partner Academy](https://partner-academy.databricks.com/) or [official exam guide](https://www.databricks.com/learn/training/certification).
+- **Focus:** Workload architecture and compute selection (recommended topic; login-only lesson name not verified).
+- **Lab:** Produce an HLD with sizing and data flow..
+- **Credential:** **Data Engineer Professional** (advanced preparation; full exam coverage needs further study).
+- **Evidence:** tested solution, architecture decision and gap analysis.
+
 ## Assigned official curriculum
 
 **Databricks Partner Academy:** [Partner Academy](https://partner-academy.databricks.com/) — log in using an approved company account and locate **Get Started with Lakehouse Architecture; Data Modeling Strategies; Context Engineering**. The public [Databricks role-based training catalog](https://www.databricks.com/learn/training/home) lists relevant course titles.
@@ -41,6 +49,14 @@ Map batch, streaming, BI, AI serving and resource choices.
 # Day 50 — Lakehouse 架構與負載設計
 
 **2026-12-14 · 2 小時 · 第 8 週** · [首頁](../README.md)
+
+## 指定課程／Section／實作／證照
+
+- **打開：** [Get Started with Lakehouse Architecture](https://www.databricks.com/learn/training/home) → [Partner Academy](https://partner-academy.databricks.com/) 或[官方考綱](https://www.databricks.com/learn/training/certification)。
+- **Section：** Workload architecture and compute selection（建議主題，未假定登入後 Lesson 名稱）。
+- **Lab：** Produce an HLD with sizing and data flow.。
+- **證書：** Data Engineer Professional（進階準備，並非八週覆蓋完整考試）。
+- **驗收：** 測試、架構決策、缺口分析。
 
 ## 指定官方課程
 
