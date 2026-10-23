@@ -2,6 +2,14 @@
 
 **2026-11-15 · 1 hour · Week 3** · [Home](../README.md) · [繁體中文 ↓](#traditional-chinese)
 
+## Company course → assigned section → lab → credential
+
+- **Open:** [Databricks Performance Optimization](https://www.databricks.com/learn/training/home) via [Partner Academy](https://partner-academy.databricks.com/) (company account).
+- **Section focus:** Performance benchmarks and incident analysis (assigned topic within the course; internal lesson title may vary).
+- **Lab:** Self-assessment with hands-on weak-area backlog.
+- **Certification:** **Data Engineer Professional** ([Exam Guides](https://www.databricks.com/learn/training/certification)).
+- **Pass:** produce tested code, failed-case evidence and an ADR.
+
 ## Assigned official curriculum
 
 **Databricks Partner Academy:** [Partner Academy](https://partner-academy.databricks.com/) — log in using an approved company account and locate **Data Management and Governance with UC**. The public [Databricks role-based training catalog](https://www.databricks.com/learn/training/home) lists relevant course titles.
@@ -41,6 +49,14 @@ Map exam domains to implemented ingestion, Lakeflow, SQL and governance.
 # Day 21 — Data Engineer Associate 能力盤點
 
 **2026-11-15 · 1 小時 · 第 3 週** · [首頁](../README.md)
+
+## 公司課程 → 指定 Section → 實作 → 認證
+
+- **打開：** [Databricks Performance Optimization](https://www.databricks.com/learn/training/home) → 公司 [Partner Academy](https://partner-academy.databricks.com/)。
+- **Section 主題：** Performance benchmarks and incident analysis（以公司登入後的 Lesson 名稱為準）。
+- **實作 Lab：** Self-assessment with hands-on weak-area backlog.
+- **對應認證：** Data Engineer Professional。
+- **驗收：** 程式、失敗案例測試、架構取捨。
 
 ## 指定官方課程
 
