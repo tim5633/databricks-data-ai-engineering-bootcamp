@@ -2,6 +2,14 @@
 
 **2026-12-03 · 2 hours · Week 6** · [Home](../README.md) · [繁體中文 ↓](#traditional-chinese)
 
+## Assigned official training → section → lab → certification
+
+1. **Open:** [Generative AI Application Evaluation and Governance](https://www.databricks.com/learn/training/home) in [Partner Academy](https://partner-academy.databricks.com/).
+2. **Section focus:** Golden dataset, graders and judge calibration; validate the actual lesson heading after company sign-in.
+3. **Hands-on lab:** Build 50-case answer/tool-effect eval harness..
+4. **Exam mapping:** **Generative AI Engineer Associate** ([certification catalog](https://www.databricks.com/learn/training/certification)).
+5. **Evidence:** agent tool traces, denied actions or grader results, Git commit.
+
 ## Assigned official curriculum
 
 **Databricks Partner Academy:** [Partner Academy](https://partner-academy.databricks.com/) — log in using an approved company account and locate **Generative AI Application Development; Generative AI Application Evaluation and Governance**. The public [Databricks role-based training catalog](https://www.databricks.com/learn/training/home) lists relevant course titles.
@@ -41,6 +49,14 @@ Create golden cases, deterministic result checks and judge calibration.
 # Day 39 — Evaluation 資料集與評分器
 
 **2026-12-03 · 2 小時 · 第 6 週** · [首頁](../README.md)
+
+## 公司課程 → 指定 Section → Lab → 證照
+
+1. **打開：** [Generative AI Application Evaluation and Governance](https://www.databricks.com/learn/training/home)，公司 [Partner Academy](https://partner-academy.databricks.com/)。
+2. **指定 Section：** Golden dataset, graders and judge calibration（登入後依實際課程標題確認）。
+3. **Lab：** Build 50-case answer/tool-effect eval harness.。
+4. **證書：** Generative AI Engineer Associate。
+5. **交付：** Tool Trace、權限拒絕案例或評分報告、Commit。
 
 ## 指定官方課程
 
