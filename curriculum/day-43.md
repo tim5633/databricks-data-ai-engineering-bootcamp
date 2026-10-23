@@ -2,6 +2,14 @@
 
 **2026-12-07 · 2 hours · Week 7** · [Home](../README.md) · [繁體中文 ↓](#traditional-chinese)
 
+## Partner Academy course → official study focus → lab → exam
+
+- **Open:** [Generative AI Application Deployment and Monitoring](https://www.databricks.com/learn/training/home) and [Databricks Partner Academy](https://partner-academy.databricks.com/) with Accenture email.
+- **Study:** Serving endpoint, auth and identity (recommended subsection: follow actual lesson titles after login).
+- **Lab:** Publish an authenticated staging endpoint..
+- **Credential:** **Generative AI Engineer Associate**, using the [March 2026 official exam guide](https://www.databricks.com/sites/default/files/2026-03/Databricks-Certified-Generative-AI-Engineer-Associate-Exam-Guide-Mar26.pdf).
+- **Evidence:** serving endpoint / tests / trace or signed-off exam-readiness checklist, plus failure-case notes.
+
 ## Assigned official curriculum
 
 **Databricks Partner Academy:** [Partner Academy](https://partner-academy.databricks.com/) — log in using an approved company account and locate **Generative AI Application Deployment and Monitoring**. The public [Databricks role-based training catalog](https://www.databricks.com/learn/training/home) lists relevant course titles.
@@ -41,6 +49,14 @@ Study endpoints, auth, environment and model/tool identity.
 # Day 43 — Serving API 與身分驗證
 
 **2026-12-07 · 2 小時 · 第 7 週** · [首頁](../README.md)
+
+## 公司課程 → Section → 實作 → 證照
+
+- **打開：** [Generative AI Application Deployment and Monitoring](https://www.databricks.com/learn/training/home) 及公司 [Partner Academy](https://partner-academy.databricks.com/)。
+- **指定內容：** Serving endpoint, auth and identity（建議學習 Section，內部 Lesson 標題以登入為準）。
+- **實作：** Publish an authenticated staging endpoint.。
+- **證照：** Generative AI Engineer Associate，依照 [2026 年 3 月 Exam Guide](https://www.databricks.com/sites/default/files/2026-03/Databricks-Certified-Generative-AI-Engineer-Associate-Exam-Guide-Mar26.pdf)。
+- **驗收：** 部署／測試／Trace 或應試檢查清單及故障案例。
 
 ## 指定官方課程
 
