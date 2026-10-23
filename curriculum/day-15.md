@@ -2,6 +2,14 @@
 
 **2026-11-09 · 2 hours · Week 3** · [Home](../README.md) · [繁體中文 ↓](#traditional-chinese)
 
+## Company course → assigned section → lab → credential
+
+- **Open:** [Data Management and Governance with UC](https://www.databricks.com/learn/training/home) via [Partner Academy](https://partner-academy.databricks.com/) (company account).
+- **Section focus:** Catalog / schema / tables / grants (assigned topic within the course; internal lesson title may vary).
+- **Lab:** Organize the Capstone assets by environment and owners.
+- **Certification:** **Data Engineer Associate; Professional** ([Exam Guides](https://www.databricks.com/learn/training/certification)).
+- **Pass:** produce tested code, failed-case evidence and an ADR.
+
 ## Assigned official curriculum
 
 **Databricks Partner Academy:** [Partner Academy](https://partner-academy.databricks.com/) — log in using an approved company account and locate **Data Management and Governance with UC**. The public [Databricks role-based training catalog](https://www.databricks.com/learn/training/home) lists relevant course titles.
@@ -41,6 +49,14 @@ Learn catalogs, schemas, managed/external tables, volumes and grants.
 # Day 15 — Unity Catalog 物件模型
 
 **2026-11-09 · 2 小時 · 第 3 週** · [首頁](../README.md)
+
+## 公司課程 → 指定 Section → 實作 → 認證
+
+- **打開：** [Data Management and Governance with UC](https://www.databricks.com/learn/training/home) → 公司 [Partner Academy](https://partner-academy.databricks.com/)。
+- **Section 主題：** Catalog / schema / tables / grants（以公司登入後的 Lesson 名稱為準）。
+- **實作 Lab：** Organize the Capstone assets by environment and owners.
+- **對應認證：** Data Engineer Associate; Professional。
+- **驗收：** 程式、失敗案例測試、架構取捨。
 
 ## 指定官方課程
 
