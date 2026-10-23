@@ -2,6 +2,14 @@
 
 **2026-10-29 · 2 hours · Week 1** · [Home](../README.md) · [繁體中文 ↓](#traditional-chinese)
 
+## Open this course → study this section → do this lab → exam mapping
+
+1. **Open company course:** [Get Started with Data Engineering](https://www.databricks.com/learn/training/home) via [Databricks Partner Academy](https://partner-academy.databricks.com/) using your corporate email. Where the URL is a catalog/docs page rather than the exact course, use the **named course title** to locate the lesson after login.
+2. **Assigned section / topic:** **Delta Lake tables, MERGE, schema enforcement**. This is a *recommended section focus*, **not** a claim that the Partner Academy uses this exact internal lesson title.
+3. **Hands-on lab:** Build Delta tables and test incremental upserts.
+4. **Certification coverage:** **Data Engineer Associate**. Cross-check current [official certification guide](https://www.databricks.com/learn/training/certification).
+5. **Completion evidence:** course notes, an executable lab or design, one failing/negative test, a commit, and a 3-minute independent explanation.
+
 ## Assigned official curriculum
 
 **Databricks Partner Academy:** [Partner Academy](https://partner-academy.databricks.com/) — log in using an approved company account and locate **Get Started with Data Engineering; Databricks Fundamentals**. The public [Databricks role-based training catalog](https://www.databricks.com/learn/training/home) lists relevant course titles.
@@ -41,6 +49,14 @@ Study ACID transactions, MERGE, history, schema enforcement/evolution.
 # Day 04 — Delta Lake 可靠性
 
 **2026-10-29 · 2 小時 · 第 1 週** · [首頁](../README.md)
+
+## 今天要開哪門課 → 哪個 Section → 做什麼 Lab → 對應證照
+
+1. **公司指定課程：** [Get Started with Data Engineering](https://www.databricks.com/learn/training/home)，以公司信箱登入 [Databricks Partner Academy](https://partner-academy.databricks.com/)；若連結為目錄或技術文件，請依**課程全名**在登入後搜尋。
+2. **指定學習 Section／主題：** **Delta Lake tables, MERGE, schema enforcement**。這是我指定的學習範圍，**不表示 Partner Academy 內部 Lesson 原名一定相同**。
+3. **實作 Lab：** Build Delta tables and test incremental upserts。
+4. **對應證書：** **Data Engineer Associate**，正式範圍以[官方考綱](https://www.databricks.com/learn/training/certification)為準。
+5. **完成證據：** 官方課程筆記、程式／架構成果、至少一個失敗或權限測試、Git Commit 和三分鐘技術解說。
 
 ## 指定官方課程
 
