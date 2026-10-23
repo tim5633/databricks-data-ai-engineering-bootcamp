@@ -2,6 +2,14 @@
 
 **2026-11-21 · 4 hours · Week 4** · [Home](../README.md) · [繁體中文 ↓](#traditional-chinese)
 
+## Company course → section → lab → certification
+
+1. **Open:** [Databricks Performance Optimization](https://www.databricks.com/learn/training/home) in [Databricks Partner Academy](https://partner-academy.databricks.com/) / official exam guide.
+2. **Study section:** Query tuning, quality and pipeline review (topic selected from current exam domains, not a claimed private lesson title).
+3. **Lab:** Deliver final pipeline and architecture walkthrough..
+4. **Credential:** **Databricks Certified Data Engineer Associate**; review Professional-level design where applicable.
+5. **Evidence:** applied test, written error explanations, certification gap log.
+
 ## Assigned official curriculum
 
 **Databricks Partner Academy:** [Partner Academy](https://partner-academy.databricks.com/) — log in using an approved company account and locate **Data Engineer Associate exam guide and partner courses**. The public [Databricks role-based training catalog](https://www.databricks.com/learn/training/home) lists relevant course titles.
@@ -41,6 +49,14 @@ Audit cost, performance, data quality, access and recoverability.
 # Day 27 — Production Pipeline 程式碼審查
 
 **2026-11-21 · 4 小時 · 第 4 週** · [首頁](../README.md)
+
+## 公司課程 → Section → Lab → 證照
+
+1. **打開：** [Databricks Performance Optimization](https://www.databricks.com/learn/training/home)（[Partner Academy](https://partner-academy.databricks.com/)／官方考綱）。
+2. **指定 Section：** Query tuning, quality and pipeline review（對照官方考試領域，並非猜測的登入後 Lesson 標題）。
+3. **當日 Lab：** Deliver final pipeline and architecture walkthrough.。
+4. **對應證書：** Data Engineer Associate，進階項目補充 Professional。
+5. **交付證據：** 測試、錯題理由與認證弱點清單。
 
 ## 指定官方課程
 
