@@ -2,6 +2,14 @@
 
 **2026-11-07 · 4 hours · Week 2** · [Home](../README.md) · [繁體中文 ↓](#traditional-chinese)
 
+## Daily course → section → lab → certification
+
+- **Open:** [Databricks Partner Academy](https://partner-academy.databricks.com/) → **Build Data Pipelines with Spark Declarative Pipelines** ([public official learning catalog](https://www.databricks.com/learn/training/home)).
+- **Section focus:** End-to-end streaming and incremental pipeline lab (recommended focus; verify lesson title after company sign-in).
+- **Lab:** Demonstrate restart, retry and data quality report.
+- **Exam:** **Data Engineer Associate; Professional** ([official exam guide catalog](https://www.databricks.com/learn/training/certification)).
+- **Evidence:** runnable pipeline, negative/failure test, architecture decision and Git commit.
+
 ## Assigned official curriculum
 
 **Databricks Partner Academy:** [Partner Academy](https://partner-academy.databricks.com/) — log in using an approved company account and locate **Data Ingestion with Lakeflow Connect; Deploy Workloads with Lakeflow Jobs; Build Data Pipelines with Spark Declarative Pipelines**. The public [Databricks role-based training catalog](https://www.databricks.com/learn/training/home) lists relevant course titles.
@@ -41,6 +49,14 @@ Connect ingestion, Silver transforms, Gold mart and scheduled jobs.
 # Day 13 — 增量 ETL 上線模擬
 
 **2026-11-07 · 4 小時 · 第 2 週** · [首頁](../README.md)
+
+## 今日課程 → Section → Lab → 證照
+
+- **打開：** [Databricks Partner Academy](https://partner-academy.databricks.com/) → **Build Data Pipelines with Spark Declarative Pipelines**（[官方課程目錄](https://www.databricks.com/learn/training/home)）。
+- **指定 Section：** End-to-end streaming and incremental pipeline lab（建議學習內容，內部 Lesson 名稱以登入顯示為準）。
+- **Lab：** Demonstrate restart, retry and data quality report。
+- **對應認證：** **Data Engineer Associate; Professional**。
+- **交付：** 可執行 Pipeline、負面測試、架構決策與 Commit。
 
 ## 指定官方課程
 
