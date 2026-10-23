@@ -10,6 +10,12 @@
 4. **Certification coverage:** **Data Engineer Associate**. Cross-check current [official certification guide](https://www.databricks.com/learn/training/certification).
 5. **Completion evidence:** course notes, an executable lab or design, one failing/negative test, a commit, and a 3-minute independent explanation.
 
+## Required company lab / exact public section — Corporate access and certification setup
+
+Before lab: use Accenture email to sign in to Partner Academy; enroll Data Engineer Associate and GenAI Engineer in Workday; request Co-Lab access through the internal request form. Store proof privately. Then study workspace/compute/SQL Warehouse and execute SQL+Python.
+
+**Evidence:** course-progress entry (keep corporate records private), tested artifact and short architectural explanation.
+
 ## Assigned official curriculum
 
 **Databricks Partner Academy:** [Partner Academy](https://partner-academy.databricks.com/) — log in using an approved company account and locate **Get Started with Data Engineering; Databricks Fundamentals**. The public [Databricks role-based training catalog](https://www.databricks.com/learn/training/home) lists relevant course titles.
@@ -57,6 +63,12 @@ Explore workspace, notebooks, compute/serverless, costs and permissions.
 3. **實作 Lab：** Create a workspace inventory and run SQL and Python notebooks。
 4. **對應證書：** **Data Engineer Associate**，正式範圍以[官方考綱](https://www.databricks.com/learn/training/certification)為準。
 5. **完成證據：** 官方課程筆記、程式／架構成果、至少一個失敗或權限測試、Git Commit 和三分鐘技術解說。
+
+## 公司指定 Lab／官方 Section — Corporate access and certification setup
+
+開始前：公司信箱登入 Partner Academy，於 Workday 登記 DE Associate／GenAI Engineer，透過公司內部表單申請 Co-Lab；登記證明只留私人紀錄。接著完成 Workspace／Compute／SQL Warehouse 實作。
+
+**驗收：** 公司課程進度私人記錄、可驗證實作、技術解說。
 
 ## 指定官方課程
 
