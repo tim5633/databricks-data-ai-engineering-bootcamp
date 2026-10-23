@@ -10,6 +10,13 @@
 4. **Credential mapping:** **Data Engineer Professional**. These advanced credentials are a **follow-on readiness track**, not guaranteed to be fully exam-ready in eight weeks.
 5. **Evidence:** HLD, tested pipeline/agent, security controls or 90-day gap plan.
 
+## Course → section → lab → certification
+
+- **Open:** [Databricks Performance Optimization](https://www.databricks.com/learn/training/home) in [Partner Academy](https://partner-academy.databricks.com/).
+- **Assigned focus:** Query/compute optimization, latency, FinOps and SLOs (topic, not a verified internal lesson heading).
+- **Lab:** Build a TCO estimate and measure a query optimization experiment.
+- **Credential:** Data Engineer Professional ([official exam catalog](https://www.databricks.com/learn/training/certification)); advanced prep, not full coverage.
+
 ## Assigned official curriculum
 
 **Databricks Partner Academy:** [Partner Academy](https://partner-academy.databricks.com/) — log in using an approved company account and locate **Get Started with Lakehouse Architecture; Data Modeling Strategies; Context Engineering**. The public [Databricks role-based training catalog](https://www.databricks.com/learn/training/home) lists relevant course titles.
@@ -57,6 +64,13 @@ Compare cost drivers, compute modes, latency, reliability requirements.
 3. **實作：** Build TCO assumptions and one optimization experiment.。
 4. **證照對應：** Data Engineer Professional；這屬於**進階認證準備路線**，不代表八週內已涵蓋完整應試範圍。
 5. **驗收：** HLD、測試 Pipeline／Agent、安全控制或 90 天補強計畫。
+
+## 課程 → Section → Lab → 證照
+
+- **課程：** [Databricks Performance Optimization](https://www.databricks.com/learn/training/home)，登入 [Partner Academy](https://partner-academy.databricks.com/)。
+- **Section：** Query／Compute Optimization、FinOps、SLO（指定主題，非已核實的內部 Lesson 名）。
+- **Lab：** 成本估算與效能優化對照實驗。
+- **認證：** Data Engineer Professional（進階準備，非完整考綱）。
 
 ## 指定官方課程
 
