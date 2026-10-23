@@ -10,6 +10,12 @@
 4. **Certification coverage:** **Data Engineer Associate; Data Analyst Associate (optional)**. Cross-check current [official certification guide](https://www.databricks.com/learn/training/certification).
 5. **Completion evidence:** course notes, an executable lab or design, one failing/negative test, a commit, and a 3-minute independent explanation.
 
+## Required company lab / exact public section — Official SQL Analytics — Query Analysis section
+
+Open [Data Analysis with Databricks](https://partner-academy.databricks.com/learn/courses/830/data-analysis-with-databricks-sql-ilt) → Section 1 SQL Analytics on Databricks → Query Analysis. Study Photon, Query Insights and query optimization. Lab: compare 3 queries, capture Query Insights screenshots without restricted data.
+
+**Evidence:** course-progress entry (keep corporate records private), tested artifact and short architectural explanation.
+
 ## Assigned official curriculum
 
 **Databricks Partner Academy:** [Partner Academy](https://partner-academy.databricks.com/) — log in using an approved company account and locate **Get Started with Data Engineering; Databricks Fundamentals**. The public [Databricks role-based training catalog](https://www.databricks.com/learn/training/home) lists relevant course titles.
@@ -57,6 +63,12 @@ Review SQL joins, aggregations, EXPLAIN, partition/pruning.
 3. **實作 Lab：** Optimize three analytical queries on synthetic data。
 4. **對應證書：** **Data Engineer Associate; Data Analyst Associate (optional)**，正式範圍以[官方考綱](https://www.databricks.com/learn/training/certification)為準。
 5. **完成證據：** 官方課程筆記、程式／架構成果、至少一個失敗或權限測試、Git Commit 和三分鐘技術解說。
+
+## 公司指定 Lab／官方 Section — Official SQL Analytics — Query Analysis section
+
+打開官方 Data Analysis with Databricks → Section 1 SQL Analytics on Databricks → Query Analysis；學 Photon、Query Insights 與效能優化。Lab：比較三個查詢並記錄效能。
+
+**驗收：** 公司課程進度私人記錄、可驗證實作、技術解說。
 
 ## 指定官方課程
 
