@@ -2,6 +2,14 @@
 
 **2026-11-29 · 1 hour · Week 5** · [Home](../README.md) · [繁體中文 ↓](#traditional-chinese)
 
+## Assigned company course / section / lab / exam
+
+- **Open:** [Generative AI Application Evaluation and Governance](https://www.databricks.com/learn/training/home) in [Partner Academy](https://partner-academy.databricks.com/) with your Accenture account.
+- **Section focus:** Retrieval accuracy, citation, leakage tests; this is a recommended focus, not a verified private lesson title.
+- **Lab:** Publish 20-case evaluation table and failure taxonomy..
+- **Exam:** **Generative AI Engineer Associate; Context Engineer Associate** ([official certifications](https://www.databricks.com/learn/training/certification)).
+- **Validation:** store retrieval examples, citation failures, tests and a commit.
+
 ## Assigned official curriculum
 
 **Databricks Partner Academy:** [Partner Academy](https://partner-academy.databricks.com/) — log in using an approved company account and locate **Get Started with Gen AI; Generative AI Solution Development**. The public [Databricks role-based training catalog](https://www.databricks.com/learn/training/home) lists relevant course titles.
@@ -41,6 +49,14 @@ Assess recall, grounding, leakage and quality/cost trade-offs.
 # Day 35 — 檢索評估與回顧
 
 **2026-11-29 · 1 小時 · 第 5 週** · [首頁](../README.md)
+
+## 今日公司課程／Section／實作／證照
+
+- **打開：** [Generative AI Application Evaluation and Governance](https://www.databricks.com/learn/training/home) → [Partner Academy](https://partner-academy.databricks.com/)（公司帳號）。
+- **Section 重點：** Retrieval accuracy, citation, leakage tests（建議讀的範圍，非已驗證的內部 Lesson 原名）。
+- **Lab：** Publish 20-case evaluation table and failure taxonomy.。
+- **對應證書：** Generative AI Engineer Associate; Context Engineer Associate。
+- **驗收：** 檢索結果、引用錯誤案例、測試和 Commit。
 
 ## 指定官方課程
 
